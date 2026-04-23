@@ -1,5 +1,3 @@
-# imers-o-dados-python
-
 # 🎲 Dashboard de Análise de Salários na Área de Dados
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
