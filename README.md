@@ -39,33 +39,31 @@ O dashboard oferece uma interface amigável e interativa, permitindo aos usuári
 
 ---
 
-## ⚙️ Como executar o projeto localmente
-
+⚙️ Como executar o projeto localmente
 Siga os passos abaixo para rodar o dashboard na sua própria máquina:
 
-**1. Clone o repositório:**
-```bash
+1. Clone o repositório:
+
+Bash
 git clone https://github.com/PHzin26/imers-o-dados-python.git
 cd imers-o-dados-python
-
 2. Instale as dependências:
 Certifique-se de ter o Python instalado. É recomendado o uso de um ambiente virtual (venv).
 
+Bash
 pip install pandas streamlit plotly
-
 3. Execute a aplicação Streamlit:
 
+Bash
 streamlit run app.py
-
 (Nota: substitua app.py pelo nome do arquivo principal do seu código Python, caso seja diferente).
 
 4. Acesse no navegador:
 O Streamlit abrirá automaticamente no seu navegador padrão. Caso não abra, acesse http://localhost:8501.
 
 💡 Sobre os Dados
-Os dados utilizados neste projeto são consumidos diretamente de um repositório remoto no formato .csv e contêm informações globais anonimizadas sobre profissionais de dados, incluindo cargos, localidade, tipo de contrato e compensação financeira em Dólares Americanos (USD).
+Os dados utilizados neste projeto são consumidos diretamente de um repositório remoto no formato .csv e contêm informações globais sobre profissionais da área de dados.
 
-👨‍💻 Autor
+👤 Autor
 Feito por Pedro Henrique durante o curso da Alura.
 Sinta-se à vontade para contribuir, abrir issues ou entrar em contato!
-
