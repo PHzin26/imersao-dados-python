@@ -47,11 +47,13 @@ Siga os passos abaixo para rodar o dashboard na sua própria máquina:
 Bash
 git clone https://github.com/PHzin26/imers-o-dados-python.git
 cd imers-o-dados-python
+
 2. Instale as dependências:
 Certifique-se de ter o Python instalado. É recomendado o uso de um ambiente virtual (venv).
 
 Bash
 pip install pandas streamlit plotly
+
 3. Execute a aplicação Streamlit:
 
 Bash
